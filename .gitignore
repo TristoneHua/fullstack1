@@ -1,2 +1,9 @@
 *.pyc
 *.db
+.vagrant/
+catalog/
+forum/
+tournament/
+pg_config.sh
+restaurantmenu.db
+Vagrantfile
